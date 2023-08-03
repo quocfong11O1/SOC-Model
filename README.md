@@ -13,5 +13,5 @@ ________________________________
 
 ## Kiến thức:
 - Có thể hiểu được các mô hình SOC cơ bản
-- Tìm hiểu và đánh giá mô hình phù hợp cho doanh nghiệp, công
+- Tìm hiểu và đánh giá mô hình phù hợp cho doanh nghiệp, công việc
 - Cài đặt mô hình SOC thực tế
